@@ -24,3 +24,7 @@ Vercel project `picklecut-website`, team `diifans-projects`, GitHub `diifan/pick
 ## Validation
 
 Build and browser checks cover home, legal and attribution pages; 320/390/768/1440 px layouts, image loading, internal links, FAQ expansion and horizontal overflow. Review screenshots are stored outside the repository.
+
+## 2026-10-29 visual refinement
+
+Removed decorative arrows, added the AceCut envelope icon to every footer, and replaced hero/closing CTAs with App Store badges styled in the app’s own colors. Brand links do not underline on hover. Until a verified app listing is available, badges use the App Store search URL (as on AceCut); development availability disclosures remain. Replace search targets with the verified app ID at launch.
